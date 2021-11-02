@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meawaly
 - 👀 I’m interested in music and games
-- 🌱 I’m currently learning git
+- 🌱 I’m currently learning Git and JavaScript 
 - 📫 How to reach me = email: alyolive@94gmail.com or twitter @meawaly
 
 <!---
