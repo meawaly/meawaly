@@ -9,12 +9,11 @@
 
 - Enjoy it!!
  
-- 📫 How to reach me = email: alyolive@94gmail.com or twitter @meawaly
+- 📫 How to reach me > e-mail: alyolive@94gmail.com 
 
 
 
-
-<img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </code> - open.spotify.com/user/12152758357
+<img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </code> - https://open.spotify.com/user/12152758357?si=61de43e8c9f64878
 
 
 
