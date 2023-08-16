@@ -5,9 +5,7 @@
 ## Hiiii! I'm Aly! :space_invader:
 
 
-- Thanks for visiting.
 
-- Enjoy it!!
  
 
 
